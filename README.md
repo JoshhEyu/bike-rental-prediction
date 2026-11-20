@@ -175,3 +175,19 @@ This project was developed for educational and machine learning demonstration pu
 ---
 
 **Developed as a Machine Learning Regression Project.**
+
+## 13. Live Demo
+
+Try the deployed application:
+
+[Open Bike Rental Demand Prediction App](https://bike-rental-prediction-qbtpaapqmjjsk6qblbkvqr.streamlit.app/)
+
+## 14. Author & Copyright
+
+**Project Author:** Eyasu Kebede
+
+© 2026 Eyasu Kebede. All Rights Reserved.
+
+This project is made available for viewing and personal or educational study only. Copying, redistribution, modification for distribution, and commercial use of the original project materials require prior written permission from the copyright holder.
+
+For further details, see the [LICENSE](LICENSE) file.
